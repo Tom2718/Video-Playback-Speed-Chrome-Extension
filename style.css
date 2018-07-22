@@ -1,0 +1,14 @@
+.controls {
+  display: inline-block;
+  width: 26px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.speed{
+  width: 38px;
+}
+
+body {
+    min-width:112px;
+}
